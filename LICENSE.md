@@ -1,4 +1,4 @@
-
+Enhance RStudio for macOS with RStudio for macOS top Extension: statistical-analysis & multi-sheet-management, the #1 extension. Includes statistical-analysis and
 
 
 
